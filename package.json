@@ -1,0 +1,15 @@
+{
+  "name": "pro-cli",
+  "version": "1.0.0",
+  "description": "基于Angular Schematics 快速生成React模板的脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pro": "bin/index.ts"
+  },
+  "keywords": ["frontend", "react", "cli", "schematics"],
+  "author": "promonkeyli",
+  "license": "ISC"
+}
