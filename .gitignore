@@ -7,3 +7,6 @@
 *.sln
 *.sw?
 .idea/
+
+
+node_modules/
